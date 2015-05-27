@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JSONcumple</string>
+
+
+    <string name="nombre">Nombre: </string>
+    <string name="nombree">Festejado </string>
+    <string name="fecha">Fecha: </string>
+    <string name="fechaa">Dia </string>
+
+    <string name="title_activity_lista_cumple">lista_cumple</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_individual_cumple">individual_cumple</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
